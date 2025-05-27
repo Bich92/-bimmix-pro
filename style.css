@@ -1,0 +1,6 @@
+
+body { font-family: sans-serif; background: #f0f2f5; margin: 0; }
+header, footer { background: #1e3a8a; color: white; padding: 1rem; text-align: center; }
+main { padding: 2rem; max-width: 800px; margin: auto; background: white; }
+.project { background: #e0e7ff; padding: 1rem; margin: 1rem 0; border-radius: 8px; }
+a { color: #1e3a8a; text-decoration: none; font-weight: bold; }
